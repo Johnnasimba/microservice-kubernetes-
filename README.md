@@ -19,7 +19,7 @@ This project involves operationalizing a machine learning microservice API that 
 
 ## Predict housing prices
 `./make_predicion.sh`
-## Main File
+## Main Files
 
 #### app.py
 Contains the code for the API(Main application)
